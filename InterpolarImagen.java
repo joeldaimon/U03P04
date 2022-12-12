@@ -1,3 +1,5 @@
+//Esta es una pequeña modificación para ENTORNOS DE DESARROLLO: GIT.
+
 /*---------------------------------------------*\
 | IES Serra Perenxisa (Torrent)           |
 | CFGS DAM Primer Curso.                        |
